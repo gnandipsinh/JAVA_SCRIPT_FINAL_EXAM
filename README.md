@@ -1,3 +1,5 @@
+<img width="1331" height="1030" alt="Screenshot 2026-07-24 143015" src="https://github.com/user-attachments/assets/72376d9f-0e70-4ff2-a083-826e677dcaf8" />
+
 # 🚀 Task Manager
 
 A modern and responsive Task Management System built using HTML, CSS, JavaScript, Bootstrap, and LocalStorage.
